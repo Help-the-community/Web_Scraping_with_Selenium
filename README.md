@@ -1,4 +1,4 @@
-# Web_Scraping_with_Selenium
+# Stackoverflow Exercises
 
 ## Overview :
 This repository contains a collection of real-world examples demonstrating web scraping using Python with Selenium. 
