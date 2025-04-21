@@ -20,8 +20,8 @@ find_login_button = driver.find_element(By.XPATH,"//a[normalize-space()='Log in'
 # fill the email account, password
 email = driver.find_element(By.XPATH, "//input[@id='email']")
 password = driver.find_element(By.XPATH, "//input[@id='password']")
-email.send_keys("ajeetverma.engg@gmail.com")
-password.send_keys("ajeetham@stackoverflow")
+email.send_keys("your_mail_id")
+password.send_keys("your_password")
 time.sleep(2)
 
 # click button login2
