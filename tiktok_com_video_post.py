@@ -80,6 +80,6 @@ if __name__ == "__main__":
     upload_video_to_tiktok("D:\\IMG_4070.mp4")
 
 """
-reference:
+reference: https://stackoverflow.com/a/79599064/11179336
 
 """
