@@ -124,7 +124,11 @@ if __name__ == '__main__':
     post_to_group(d, "Computer Vision")
 
 
-
+"""
+reference:
+Q: https://stackoverflow.com/q/79741779/11179336
+S: https://stackoverflow.com/a/79742001/11179336
+"""
 
 
 
